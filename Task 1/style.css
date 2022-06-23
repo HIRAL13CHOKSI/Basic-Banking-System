@@ -1,0 +1,71 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.bg-light {
+  background-color: #bfdff0 !important;
+}
+
+.navbar-brand {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 1.7rem;
+  color: #BF40BF !important;
+}
+
+.nav-link {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #BF40BF !important;
+}
+
+.nav-link:hover {
+  background-color: lightgray !important;
+}
+.hero-content {
+  top: 8px;
+  position: relative;
+  height: 76vh;
+  background-color: #2775d4;
+  color: #ffffff;
+}
+
+.hero-img {
+  height: 70vh;
+  width: 70%;
+}
+
+.get-started {
+  border-radius: 2rem;
+  padding: 1rem 2rem;
+  font-size: 162%;
+  background-color: #fff;
+  color: #BF40BF !important;
+  transition: 0.3s;
+}
+
+.get-started:hover {
+  text-decoration: none;
+  background-color: #bfdff0;
+}
+
+footer {
+  background-color: #bfdff0;
+}
+
+.social-icons li {
+  list-style: none;
+  display: inline;
+  padding: 0.5rem;
+}
+
+.github {
+  color: #24292e;
+}
+
+.linkedin {
+  color: #0077b5;
+}
